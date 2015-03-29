@@ -1,0 +1,19 @@
+#ifndef _MESSAGE_TYPES_H
+#define _MESSAGE_TYPES_H
+
+enum MessageTypes {
+    NO_CREDENTIALS_ERROR = 0,
+    GET_FEED_ERROR = 1,
+    REFRESH_TOKEN_ERROR = 2,
+    
+    SHOW_FEED_MENU = 3,
+    SHOW_FEED_ITEM = 4,
+    
+    NUM_MESSAGE_HANDLERS,
+    
+    WATCH_APP_OPENED = 100,
+    REFRESH_FEED = 101,
+    FEED_ITEM_SELECTED = 102,
+};
+
+#endif // _MESSAGE_TYPES_H
