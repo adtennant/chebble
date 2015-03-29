@@ -4,7 +4,7 @@ Chebble is Chatter for Pebble.
 
 Keep up with your Salesforce Chatter feed from your wrist.
 
-[Download]()
+[Download](https://apps.getpebble.com/applications/5505ad14e1a3a859e800002a)
 
 Chebble is a free, open source app for checking your Salesforce Chatter feed on your Pebble Smartwatch.
 
